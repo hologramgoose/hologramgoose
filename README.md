@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"></a>&nbsp
 </p>
 <h3 align="center">I am not a professional. Kind of a hobby..</h3>
 <h3 align="center">Have Fun!</h3>
